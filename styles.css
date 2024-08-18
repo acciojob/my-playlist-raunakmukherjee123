@@ -5,6 +5,9 @@ body{
 li{
 	list-style-type:none;
 }
+a{
+	text-decoration-line:none;
+}
 .div1{
 	background-color:white;
 	border:1px solid black;
