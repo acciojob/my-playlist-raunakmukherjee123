@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+li{
+	list-style-type:none;
+}
+.div1{
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+}
+.div2{
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+	padding:10px;
+	width:330px;
+	margin:auto;
+}
+h1,h2,h3{
+	text-align:center;
+}
