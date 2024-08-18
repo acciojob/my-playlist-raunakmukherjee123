@@ -24,3 +24,7 @@ a{
 h1,h2,h3{
 	text-align:center;
 }
+video,audio{
+	background-color:rgb(255,255,255);
+	
+}
